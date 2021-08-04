@@ -110,7 +110,6 @@ D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\Project.dll
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\Project.pdb
-D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.csprojAssemblyReference.cache
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.AssemblyInfoInputs.cache
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.AssemblyInfo.cs
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.csproj.CoreCompileInputs.cache
@@ -118,3 +117,7 @@ D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.dll
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.pdb
 D:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.genruntimeconfig.cache
+d:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\Project.deps.json
+d:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+d:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+d:\Users\User\Documents\GitHub\project\Projeto\Senac.Tests\obj\Debug\netcoreapp3.1\Senac.Tests.csproj.AssemblyReference.cache
